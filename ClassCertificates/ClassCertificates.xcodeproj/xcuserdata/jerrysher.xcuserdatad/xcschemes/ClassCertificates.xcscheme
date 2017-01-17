@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "10DDB0661E2DB10500771B0B"
-               BuildableName = "TwoFloats"
-               BlueprintName = "TwoFloats"
-               ReferencedContainer = "container:TwoFloats.xcodeproj">
+               BlueprintIdentifier = "10DDB0791E2DC1DB00771B0B"
+               BuildableName = "ClassCertificates"
+               BlueprintName = "ClassCertificates"
+               ReferencedContainer = "container:ClassCertificates.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "10DDB0661E2DB10500771B0B"
-            BuildableName = "TwoFloats"
-            BlueprintName = "TwoFloats"
-            ReferencedContainer = "container:TwoFloats.xcodeproj">
+            BlueprintIdentifier = "10DDB0791E2DC1DB00771B0B"
+            BuildableName = "ClassCertificates"
+            BlueprintName = "ClassCertificates"
+            ReferencedContainer = "container:ClassCertificates.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "10DDB0661E2DB10500771B0B"
-            BuildableName = "TwoFloats"
-            BlueprintName = "TwoFloats"
-            ReferencedContainer = "container:TwoFloats.xcodeproj">
+            BlueprintIdentifier = "10DDB0791E2DC1DB00771B0B"
+            BuildableName = "ClassCertificates"
+            BlueprintName = "ClassCertificates"
+            ReferencedContainer = "container:ClassCertificates.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "10DDB0661E2DB10500771B0B"
-            BuildableName = "TwoFloats"
-            BlueprintName = "TwoFloats"
-            ReferencedContainer = "container:TwoFloats.xcodeproj">
+            BlueprintIdentifier = "10DDB0791E2DC1DB00771B0B"
+            BuildableName = "ClassCertificates"
+            BlueprintName = "ClassCertificates"
+            ReferencedContainer = "container:ClassCertificates.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

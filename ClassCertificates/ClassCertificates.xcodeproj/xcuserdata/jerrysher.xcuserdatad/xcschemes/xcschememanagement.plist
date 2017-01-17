@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TwoFloats.xcscheme</key>
+		<key>ClassCertificates.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>10DDB0661E2DB10500771B0B</key>
+		<key>10DDB0791E2DC1DB00771B0B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
