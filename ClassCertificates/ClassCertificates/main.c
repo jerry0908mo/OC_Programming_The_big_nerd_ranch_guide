@@ -7,11 +7,15 @@
 //
 
 #include <stdio.h>
+#include <unistd.h>
 
 int main(int argc, const char * argv[]) {
     congratulateStudent("Kate", "Cocoa", 5);
+    sleep(2);
     congratulateStudent("Bo", "Objective-C", 2);
+    sleep(2);
     congratulateStudent("Mike", "Python", 5);
+    sleep(2);
     congratulateStudent("Liz", "iOS", 5);
     return 0;
 }
