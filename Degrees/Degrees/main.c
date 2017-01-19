@@ -10,6 +10,9 @@
 #include <stdlib.h>
 
 
+float lastTemperature;
+
+
 void x();
 float fahrenheitFromCelsius(float cel);
 float average(float a, float b);
@@ -20,13 +23,14 @@ int main(int argc, const char * argv[]) {
     float freezeInc = 0.0f;
     float freezeInf = fahrenheitFromCelsius(freezeInc);
     printf("Water freezes at %f degrees Fahrenheit.\n", freezeInf);
+    printf("The last temperature converted was %f.\n", lastTemperature);
     x();
-    
     average(10, 2);
     return EXIT_SUCCESS;
 }
 
 float fahrenheitFromCelsius(float cel) {
+    lastTemperature = cel;
     float fahr = cel * 1.8 + 32.0;
     printf("%f Celsius is %f Fahrenheit \n", cel, fahr);
     return fahr;
